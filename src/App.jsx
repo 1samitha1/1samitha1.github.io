@@ -94,9 +94,18 @@ export default function App() {
                 href="https://github.com/1samitha1"
                 target="_blank"
                 rel="noreferrer"
-                className="px-7 py-3 rounded-xl bg-sky-600 hover:bg-sky-900 transition font-medium"
+                className="px-7 py-3 rounded-xl bg-green-800 hover:bg-green-500 transition font-medium"
               >
                 GitHub
+              </a>
+            
+            <a
+                href="https://www.linkedin.com/in/1samz1/"
+                target="_blank"
+                rel="noreferrer"
+                className="px-7 py-3 rounded-xl bg-sky-900 hover:bg-sky-400 transition font-medium"
+              >
+                LinkedIn
               </a>
 
               <a
