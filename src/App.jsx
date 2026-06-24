@@ -648,13 +648,20 @@ export default function App() {
 
           <div className="mt-8">
             <a
-              href="https://github.com/1samitha1"
+              href="https://www.linkedin.com/in/1samz1/"
               target="_blank"
               rel="noreferrer"
-              className="inline-block px-8 py-4 rounded-xl bg-sky-900 hover:bg-sky-600 transition"
+              className="inline-block px-8 py-4 rounded-xl bg-sky-900 hover:bg-sky-400 transition"
             >
-              Visit GitHub Profile
+              My LinkedIn
             </a>
+            <a
+              href="mailto:samitha.mihiranga@gmail.com"
+             className="inline-block px-8 py-4 rounded-xl bg-emerald-700 hover:bg-emerald-500 transition ml-4"
+            >
+              Email Me
+            </a>
+            
           </div>
         </div>
       </section>
