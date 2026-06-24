@@ -403,7 +403,9 @@ export default function App() {
               </h3>
 
               <p className="text-orange-400 mt-1">
-                Trainstop Pty Ltd • Australia
+                Trainstop Pty Ltd 
+                <br></br>
+                - Australian Client
               </p>
             </div>
 
@@ -498,7 +500,7 @@ export default function App() {
               <p className="text-purple-400 mt-1">
                 Bridge Tech Labs (Pvt) Ltd
                 <br></br>
-                 - Erupe client
+                 - Netherland client
               </p>
             </div>
 
@@ -544,7 +546,7 @@ export default function App() {
               <p className="text-pink-400 mt-1">
                 360 Development (Pvt) Ltd
                 <br></br>
-                 - Erupe client
+                 - Netherland client
               </p>
             </div>
 
